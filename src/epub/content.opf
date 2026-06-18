@@ -68,9 +68,10 @@
 		<meta property="file-as" refines="#transcriber-1">Distributed Proofreaders</meta>
 		<meta property="se:url.homepage" refines="#transcriber-1">https://www.pgdp.net/</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER_NAME</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Jim Nelson</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Nelson, Jim</meta>
+		<meta property="se:name.person.full-name" refines="#producer-1">James Leonard Nelson</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://j-nelson.net/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
