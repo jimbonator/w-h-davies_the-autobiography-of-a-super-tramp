@@ -17,6 +17,7 @@
 		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
 		<meta id="conformance-statement" property="dcterms:conformsTo">EPUB Accessibility 1.1 - WCAG 2.2 Level AA</meta>
 		<meta property="a11y:certifiedBy" refines="#conformance-statement">Standard Ebooks</meta>
+		<meta property="schema:abstract">At the end of the 19th century, a destitute tramp wanders across England and North America.</meta>
 		<meta property="schema:accessMode">textual</meta>
 		<meta property="schema:accessModeSufficient">textual</meta>
 		<meta property="schema:accessibilityFeature">alternativeText</meta>
@@ -27,6 +28,9 @@
 		<meta property="schema:accessibilityFeature">unlocked</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
+		<meta property="schema:genre">Autobiography</meta>
+		<meta property="schema:genre">Travel</meta>
+		<meta property="schema:wordCount">86795</meta>
 		<dc:title id="title">The Autobiography of a Super-Tramp</dc:title>
 		<meta property="file-as" refines="#title">Autobiography of a Super-Tramp, The</meta>
 		<dc:subject id="subject-1">Poets, English -- 20th century -- Biography</dc:subject>
@@ -39,30 +43,29 @@
 		<meta property="authority" refines="#subject-3">LCHS</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="se:subject">Autobiography</meta>
-		<dc:description id="description">At the end of the 19th century, a destitute tramp wanders across England and North America.</dc:description>
+		<dc:description id="description">&lt;p&gt;At the end of the 19th century, a destitute tramp wanders across England and North America.&lt;/p&gt;</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Poet &lt;a href="https://standardebooks.org/ebooks/w-h-davies"&gt;W. H. Davies’&lt;/a&gt; autobiography recalls spurning a youth of subsistence and squalor in England to pursue a life of travel abroad. With quiet and understated prose, Davies recounts a tramp’s life: riding railroad boxcars and evading fare collectors, cadging free meals, working as a migrant field hand, and dealing with corrupt law enforcement and judges. Each encounter gives Davies a chance to share his observations on the state of America and England at the turn of the 20th century. Davies’ anti-authoritarianism inspired such contemporaries as George Bernard Shaw, who lobbied for the book’s publication and provided its preface, as well as future drifters (such as Christopher “Alexander Supertramp” McCandless) for his promotion of living a free and authentic life.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/51425</dc:source>
-		<dc:source>PAGE_SCANS_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<dc:source>https://archive.org/details/bwb_KU-774-725</dc:source>
+		<meta property="se:word-count">86795</meta>
+		<meta property="se:reading-ease.flesch">69.7</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Autobiography_of_a_Super-Tramp</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/w-h-davies_the-autobiography-of-a-super-tramp</meta>
 		<dc:creator id="author">W. H. Davies</dc:creator>
 		<meta property="file-as" refines="#author">Davies, W. H.</meta>
 		<meta property="se:name.person.full-name" refines="#author">William Henry Davies</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/W._H._Davies</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n83139060</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n83139060.html</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="writer-of-preface">George Bernard Shaw</dc:contributor>
-		<dc:contributor id="artist">COVER_ARTIST_NAME</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Jules-Alexis Muenier</dc:contributor>
+		<meta property="file-as" refines="#artist">Muenier, Jules-Alexis</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Jules-Alexis_Muenier</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/nr2007003529.html</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Distributed Proofreaders</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Distributed Proofreaders</meta>
