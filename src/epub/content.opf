@@ -30,7 +30,7 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<meta property="schema:genre">Autobiography</meta>
 		<meta property="schema:genre">Travel</meta>
-		<meta property="schema:wordCount">86795</meta>
+		<meta property="schema:wordCount">WORD_COUNT</meta>
 		<dc:title id="title">The Autobiography of a Super-Tramp</dc:title>
 		<meta property="file-as" refines="#title">Autobiography of a Super-Tramp, The</meta>
 		<dc:subject id="subject-1">Poets, English -- 20th century -- Biography</dc:subject>
@@ -52,8 +52,8 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/51425</dc:source>
 		<dc:source>https://archive.org/details/bwb_KU-774-725</dc:source>
-		<meta property="se:word-count">86795</meta>
-		<meta property="se:reading-ease.flesch">69.7</meta>
+		<meta property="se:word-count">WORD_COUNT</meta>
+		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Autobiography_of_a_Super-Tramp</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/w-h-davies_the-autobiography-of-a-super-tramp</meta>
 		<dc:creator id="author">W. H. Davies</dc:creator>
